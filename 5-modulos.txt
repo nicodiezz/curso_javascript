@@ -1,0 +1,5 @@
+en el modulo (file.js):
+    export const <variable>
+    export function <funcion>{}
+en implementacion
+    import {<variable>, <funcion>}
